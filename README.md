@@ -24,19 +24,18 @@ This project leverages Remix.Ethereum.org.
 
 ## Installation Guide
 
-No installations necce
+No installations neccessary, just go to remix.Ethereum.org and open the joint_savings.sol file.
 
 ---
 
 ## Usage
 
-Navigate to the directory where fintech_finder.py is located and run the file by typing streamlit run fintech_finder.py in the command line. The user is free to add additional input messages to the code, or make any edits deemed necessary.
+Go to the website https://remix.ethereum.org/ and run joint_savings.sol on the webpage. The user needs to compile the code and then deploy it. Once the contract is deployed, the user can send and withdraw ether to the account.
 
 ---
-
 ## Contributors
 
-Just me, and a little bit of help from module 18
+Just me, and a little bit of help from module 20
 
 ## License
 
